@@ -1,0 +1,38 @@
+:root {
+	--dark: #373A3C;
+	--white: #FFFFFF;
+	--danger: #DC3545;
+	--border: #DDDDDD;
+}
+nav {
+    background-color: var(--dark);
+    /* max-height: 60px; */
+  }
+footer {
+    background-color: var(--dark);
+    /* max-height: 60px; */
+  }  
+  .page-brand {
+    font-family: 'Lobster', cursive;
+    font-size: 37pt;
+    color: var(--white);  
+  }
+
+  .principal-img {
+    height: 482px;
+    width: 384px;
+    padding-left: 150px;
+    
+  }
+
+  .suscribe-banner {
+    background-color: var(--danger);
+    height: 300px;
+    color: var(--white); 
+  }
+
+  .ricomida-text {
+    font-family: 'Lobster', cursive;
+    font-size: 37pt;
+    color: var(--white);  
+  }
