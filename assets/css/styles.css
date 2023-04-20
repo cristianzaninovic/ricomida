@@ -36,3 +36,10 @@ footer {
     font-size: 37pt;
     color: var(--white);  
   }
+
+  .tooltip-inner {
+    background-color: #373A3C;
+    color: #fff;
+    border: 1px solid #fff;
+  }
+    
